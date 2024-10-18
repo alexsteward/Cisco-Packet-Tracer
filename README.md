@@ -18,3 +18,16 @@ This repository contains various projects and simulations created using Cisco Pa
   - Static routing configuration
   - IP addressing and subnetting
   - Understanding of router functionality and inter-LAN communication
+
+
+### Project 3: Data Encapsulation & Analyization
+- **Description:** This project explores the concepts of data encapsulation and packet analysis. It involves understanding how data is packaged at different OSI layers, analyzing the structure of packets, and using Cisco Packet Tracer to simulate and evaluate data transmission across a network.
+- **Skills Learned:** 
+  - Understanding data encapsulation processes
+  - Analyzing packet structures (headers, trailers, etc.)
+  - Network traffic analysis using simulation tools
+  - Exploring various network protocols and their functions
+    
+
+## Tools Used
+- Cisco Packet Tracer
