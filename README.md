@@ -11,10 +11,10 @@ This repository contains various projects and simulations created using Cisco Pa
   - Understanding of LAN configurations
   - IP addressing and subnetting
 
-## Tools Used
-- Cisco Packet Tracer
 
-- **Project 2: [Project Title]**
-  - **Description:** Brief overview.
-  - **Skills Learned:** List skills.
-  - **Tools Used:** Mention tools.
+### Project 2: Static Routing
+- **Description:** This project focuses on connecting several LANs together by configuring static routing. It includes setting correct IP addresses, default gateways, and static routes, along with configuring routers for proper communication between the networks.
+- **Skills Learned:** 
+  - Static routing configuration
+  - IP addressing and subnetting
+  - Understanding of router functionality and inter-LAN communication
