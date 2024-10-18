@@ -5,10 +5,14 @@ This repository contains various projects and simulations created using Cisco Pa
 
 ## Projects
 
-- **Project 1: [Project Title]**
-  - **Description:** Brief overview of what the project entails (e.g., network topology, protocols used).
-  - **Skills Learned:** List specific skills acquired from this project (e.g., VLAN configuration, OSPF routing).
-  - **Tools Used:** Mention tools or features utilized (e.g., Cisco Packet Tracer features, specific device models).
+### Project 1: BasicLAN
+- **Description:** The set up of a two basic LANs using a switch and three devices. It covers the concepts of connecting LANs together, configuring correct IP addresses, and connections.
+- **Skills Learned:** 
+  - Understanding of LAN configurations
+  - IP addressing and subnetting
+
+## Tools Used
+- Cisco Packet Tracer
 
 - **Project 2: [Project Title]**
   - **Description:** Brief overview.
