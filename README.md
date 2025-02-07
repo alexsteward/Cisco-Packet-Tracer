@@ -11,7 +11,6 @@ This repository contains various projects and simulations created using Cisco Pa
   - Understanding of LAN configurations
   - IP addressing and subnetting
 
-
 ### Project 2: Static Routing
 - **Description:** This project focuses on connecting several LANs together by configuring static routing. It includes setting correct IP addresses, default gateways, and static routes, along with configuring routers for proper communication between the networks.
 - **Skills Learned:** 
@@ -27,7 +26,16 @@ This repository contains various projects and simulations created using Cisco Pa
   - Analyzing packet structures (headers, trailers, etc.)
   - Network traffic analysis using simulation tools
   - Exploring various network protocols and their functions
-    
+
+
+### Project 4: Data Encapsulation & Analyization
+- **Description:** This project focuses on Virtual LAN (VLAN) concepts and VLAN trunking to improve network segmentation and efficiency. It involves creating and configuring VLANs on network devices, implementing VLAN trunking using IEEE 802.1Q protocol, and analyzing inter-VLAN communication using Cisco Packet Tracer. The project also explores how VLANs enhance network security and traffic management.
+- **Skills Learned:** 
+  - Understanding VLAN concepts and their role in network segmentation
+  - Configuring VLANs and VLAN trunking on switches
+  - Implementing and analyzing inter-VLAN routing
+  - Using Cisco Packet Tracer for network simulation and troubleshooting
+  - Exploring the IEEE 802.1Q trunking protocol
 
 ## Tools Used
 - Cisco Packet Tracer
