@@ -37,5 +37,15 @@ This repository contains various projects and simulations created using Cisco Pa
   - Using Cisco Packet Tracer for network simulation and troubleshooting
   - Exploring the IEEE 802.1Q trunking protocol
 
+### **Project 5: Advanced LAN with SSH Access**  
+- **Description**: Set up two LANs with VLANs, trunking, and secure SSH access. Configure network devices for remote management, routing, and VLAN communication.  
+- **Skills Learned**:  
+  - LAN setup and IP addressing  
+  - Configuring VLANs, trunk links, and Layer 3 routing  
+  - SSH access and security (SSH v2 only)  
+  - Device security: password configuration, user authentication  
+  - VLAN management and inter-VLAN communication  
+
+
 ## Tools Used
 - Cisco Packet Tracer
