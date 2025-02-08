@@ -29,7 +29,7 @@ This repository contains various projects and simulations created using Cisco Pa
 
 
 ### Project 4: Data Encapsulation & Analyization
-- **Description:** This project focuses on Virtual LAN (VLAN) concepts and VLAN trunking to improve network segmentation and efficiency. It involves creating and configuring VLANs on network devices, implementing VLAN trunking using IEEE 802.1Q protocol, and analyzing inter-VLAN communication using Cisco Packet Tracer. The project also explores how VLANs enhance network security and traffic management.
+- **Description:** This project focuses on VLAN concepts and VLAN trunking to improve network segmentation and efficiency. It involves creating and configuring VLANs on network devices, implementing VLAN trunking using IEEE 802.1Q protocol, and analyzing inter-VLAN communication using Cisco Packet Tracer. The project also explores how VLANs enhance network security and traffic management.
 - **Skills Learned:** 
   - Understanding VLAN concepts and their role in network segmentation
   - Configuring VLANs and VLAN trunking on switches
