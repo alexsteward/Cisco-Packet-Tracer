@@ -1,4 +1,4 @@
-# Cisco Packet Tracer Projects
+# Cisco Packet Tracer Projects 🌐
 
 ## Overview
 This repository contains various projects and simulations created using Cisco Packet Tracer. Each project demonstrates different networking concepts and configurations, showcasing skills in network design, troubleshooting, and implementation.
